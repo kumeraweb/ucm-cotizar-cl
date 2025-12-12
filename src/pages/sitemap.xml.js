@@ -1,5 +1,5 @@
 export async function GET() {
-  const baseUrl = 'https://www.cotizacoronariamovil.cl/' // Cambia esto cuando tengas el dominio final
+  const baseUrl = 'https://www.cotizacoronariamovil.cl' // Cambia esto cuando tengas el dominio final
 
   const pages = ['', '/ucm-telefono', '/planes-ucm', '/rescate-medico-ucm']
 
